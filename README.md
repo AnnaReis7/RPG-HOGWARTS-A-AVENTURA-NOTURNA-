@@ -1,7 +1,5 @@
 # RPG-HOGWARTS-A-AVENTURA-NOTURNA-
 
-# RPG-HOGWARTS-A-AVENTURA-NOTURNA-
-
 **1. Nome do Jogo:**
 Hogwarts: A Aventura Noturna
 
