@@ -26,7 +26,9 @@ Python 3
 
 **• Sistema de pontos para determinar a casa de Hogwarts:** (Grifinória, Sonserina, Corvinal, Lufa-Lufa). 
 
-**• Ramificações narrativas que conduzem a diferentes finais:** Trágico, Neutro ou Heróico. • Interações com personagens secundários (ex: Liandrux Pastanar). 
+**• Ramificações narrativas que conduzem a diferentes finais:** Trágico, Neutro ou Heróico.
+
+**• Interações com personagens secundários** (ex: Liandrux Pastanar). 
 
 **• Exploração de cenários:** (corredores, biblioteca, porões) com decisões que afetam o desenrolar da história. 
 
@@ -35,28 +37,51 @@ Python 3
 
 **• Quiz do Chapéu Seletor:** Determina a casa do jogador com base em respostas a perguntas de personalidade. 
 
-**• Primeiras escolhas:** Exploração da escola, decisões sobre regras e interações com colegas. • Exploração da biblioteca: Escolha de ações que afetam a descoberta de segredos. • Conflito final: Confronto com criatura sombria e múltiplos finais possíveis. • Conclusão: Final baseado nas escolhas do jogador. 
+**• Primeiras escolhas:** Exploração da escola, decisões sobre regras e interações com colegas.
+
+**• Exploração da biblioteca:** Escolha de ações que afetam a descoberta de segredos.
+
+**• Conflito final:** Confronto com criatura sombria e múltiplos finais possíveis.
+
+**• Conclusão:** Final baseado nas escolhas do jogador. 
 
 **9. Personagens Principais:** 
+
 **• Jogador:** Protagonista, novato em Hogwarts, cujo destino depende das escolhas.
+
 **• Liandrux Pastanar:** Colega de quarto do jogador, aliado em decisões estratégicas. 
+
 **• Criatura Sombria:** Antagonista do clímax, oferecendo diferentes caminhos de conclusão. 
 
 **10. Objetivos do Jogo:** 
+
 **• Descobrir a própria casa em Hogwarts.**
+
 **• Explorar a escola e desvendar segredos.** 
+
 **• Tomar decisões morais que afetam o destino do jogador e da escola.** 
+
 **• Sobreviver ou triunfar em confrontos mágicos.**
 
 **11. Finais Possíveis:**
+
 **• Final Trágico: Aceitar o pacto sombrio.** 
+
 **• Final Neutro: Selar a criatura usando magia antiga.**
+
 **• Final Heróico: Rejeitar a criatura e derrotá-la com feitiço de luz.** 
+
 **• Falha por indecisão: Resultado trágico automático.** 
 
 **12. Recursos Utilizados:** 
+
 **• Inputs para interação do jogador.** 
+
 **• Impressão de narrativa sequencial (print()).** 
+
+
 **• Estrutura condicional para ramificações da história.** 
+
 **• Loop for para perguntas do quiz e exibição de cenas.** 
+
 **• Dicionários para pontuação das casas**
